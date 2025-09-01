@@ -1,4 +1,4 @@
-**Expert:** React, Next.js, ASP.NET Core, Node.js, SQL Server, Redux, Material UI, Kendo UI, Tailwind, CSS, Scrum/Agile, Jira, ClickUp  
+**Expert:** React, Next.js, ASP.NET Core, Node.js, SQL Server, Redux, Material UI, Kendo UI, Tailwind, CSS, Scrum/Agile  
 **Proficient:** Angular, Docker, Microservices, DDD, CI/CD, Jenkins, Google Cloud, Azure DevOps, Kubernetes, PostgreSQL, MySQL  
-**Familiar:** jQuery, MongoDB, gRPC, GraphQL, RTL, Jest, NUnit, xUnit, Moq, FluentAssertions, TDD  
+**Familiar:** jQuery, MongoDB, gRPC, GraphQL, RTL, Jest, NUnit, xUnit, Moq, FluentAssertions, TDD, Jira, ClickUp  
 
